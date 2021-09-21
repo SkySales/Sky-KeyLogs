@@ -1,7 +1,7 @@
 # Sky-KeyLogs
 BlackListed Key Logs Fivem Scripts!
 
-REQUIRED > screenshot-basic
+REQUIRED > https://github.com/citizenfx/screenshot-basic
 
 YOU CAN TRY THIS KEYLOGS IF YOU NOTICE SOME MOD MENU USERS IN YOUR SERVER
 
